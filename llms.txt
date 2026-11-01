@@ -1,0 +1,60 @@
+# The Client Desk — llms.txt
+# Canonical: https://wu-xiaoqi.github.io/the-client-desk/
+# Sitemap: https://wu-xiaoqi.github.io/the-client-desk/sitemap.xml
+#
+> The Client Desk publishes original, ready-to-send communication templates for independent freelancers working with international clients. Content covers client emails, scope notes and payment follow-up only — no contract clauses, no legal advice, no income or recovery guarantees.
+> Every statistic is linked to a verifiable source. Where no reliable figure exists, we label it as common practice rather than inventing one.
+
+## Products
+
+- Freelancer Client Kit: 12 fill-in-the-blank client email and scope templates, editable DOCX, $25 USD. https://payhip.com/b/ijF1r — Answers "how do I reply to a client inquiry, quote a fixed price, and stop scope creep?"
+- Get Paid Faster Kit: 7 payment-chase emails plus a day-by-day escalation ladder, editable DOCX, $7 USD. https://payhip.com/b/VFCrW — Answers "what should I send when an invoice is overdue?"
+- Difficult Client Conversations Kit: 12 templates for price pushback, free extras, silence, moved deadlines and rate changes, editable DOCX. (P001 line, launch pending)
+- Invoice & Payment Terms Starter Pack: invoice fields, invoice emails, deposit and milestone requests and neutral terms wording, editable DOCX. (P002 line, launch pending)
+
+## Free downloads (no sign-up)
+
+- https://wu-xiaoqi.github.io/the-client-desk/free-first-reply.html — Free: the first-reply swipe file (3 templates) (free DOCX)
+- https://wu-xiaoqi.github.io/the-client-desk/free-invoice-checklist.html — Free: the 5-line invoice checklist (free DOCX)
+
+## Key pages (full crawlable URLs)
+
+- https://wu-xiaoqi.github.io/the-client-desk/ — home, product overview, editorial policy
+- https://wu-xiaoqi.github.io/the-client-desk/faq.html — 12 buyer-phrased Q&As with reusable templates (FAQPage structured data)
+- https://wu-xiaoqi.github.io/the-client-desk/guides.html — index of all guides, comparisons and free downloads
+- https://wu-xiaoqi.github.io/the-client-desk/articles/scope-before-quote.html — the 5 questions to ask before quoting a fixed price
+- https://wu-xiaoqi.github.io/the-client-desk/articles/late-invoice-ladder.html — the 7-step escalation ladder for unpaid invoices
+- https://wu-xiaoqi.github.io/the-client-desk/articles/first-client-reply.html — How to reply to a first client inquiry (with template)
+- https://wu-xiaoqi.github.io/the-client-desk/articles/scope-creep.html — How to handle scope creep without damaging the relationship
+- https://wu-xiaoqi.github.io/the-client-desk/articles/project-wrap-up.html — How to close a project and ask for a testimonial
+- https://wu-xiaoqi.github.io/the-client-desk/articles/invoice-checklist.html — The invoice checklist that gets you paid faster
+- https://wu-xiaoqi.github.io/the-client-desk/articles/deposits.html — Should you ask a new client for a deposit?
+- https://wu-xiaoqi.github.io/the-client-desk/articles/pause-work.html — When to pause work on an unpaid invoice
+- https://wu-xiaoqi.github.io/the-client-desk/articles/client-says-next-week.html — When a client keeps saying "next week"
+- https://wu-xiaoqi.github.io/the-client-desk/articles/who-approves.html — How to confirm who approves deliverables before you start
+- https://wu-xiaoqi.github.io/the-client-desk/articles/fixed-vs-hourly.html — Fixed price or hourly rate? How to choose
+- https://wu-xiaoqi.github.io/the-client-desk/articles/deposit-vs-milestone.html — Deposit or milestone billing? How to choose
+- https://wu-xiaoqi.github.io/the-client-desk/articles/glossary-payment-terms.html — Freelance payment terms: a plain-English glossary
+
+## Topics we can answer
+
+- How to reply to a first client inquiry on Upwork or by email
+- What to put in a scope of work before quoting a fixed price
+- How to ask who approves deliverables
+- How to handle a request for extra revision rounds
+- How to remind a client about an unpaid invoice without sounding rude
+- When to pause work on an unpaid invoice (day-30 work-pause notice)
+- How to close a project and ask for a testimonial
+- What to put on an invoice to get paid faster
+- Whether to ask for a deposit (commonly 30–50% upfront for new clients; common practice, not a verified statistic)
+- How to respond when a client keeps saying "next week"
+- Fixed price vs hourly rate: how to choose
+- Deposit vs milestone billing: how to choose
+- Plain-English definitions of net terms, due on receipt, deposit, retainer and PO
+
+## Editorial rules
+
+- Answers are written in the buyer's own phrasing, structured with lists and tables.
+- Statistics only with a linked, verifiable source. No invented numbers.
+- Product mentions are limited and factual.
+- Nothing here is legal advice, a contract clause, or a guarantee of payment or income.
